@@ -1,2 +1,2 @@
-model_checkpoint_path: "rnn_v5"
-all_model_checkpoint_paths: "rnn_v5"
+model_checkpoint_path: "rnn_v6"
+all_model_checkpoint_paths: "rnn_v6"
